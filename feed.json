@@ -1,7 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "bluecity",
-    "description": "",
+    "subtitle": "书屋",
+    "icon": "http://example.com/images/favicon.ico",
+    "description": "平静的看待世界",
     "home_page_url": "http://example.com",
     "items": [
         {
