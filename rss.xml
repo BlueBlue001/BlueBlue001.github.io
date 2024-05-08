@@ -2,22 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>bluecity</title>
-        <subtitle>杂谈</subtitle>
+        <subtitle>平静的看待世界</subtitle>
         <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
           <name>CHD</name>
         </author>
-        <description>平静的看待世界</description>
+        <description>明天是明天，现在是现在</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 08 May 2024 13:53:05 +0800</pubDate>
-        <lastBuildDate>Wed, 08 May 2024 13:53:05 +0800</lastBuildDate>
+        <pubDate>Wed, 08 May 2024 18:52:40 +0800</pubDate>
+        <lastBuildDate>Wed, 08 May 2024 18:52:40 +0800</lastBuildDate>
         <category term="clam" />
+        <item>
+            <guid isPermalink="true">http://example.com/2024/05/08/%E5%81%A5%E8%BA%AB%E7%9A%84%E5%B0%8F%E7%AA%81%E7%A0%B4/</guid>
+            <title>健身的小突破</title>
+            <link>http://example.com/2024/05/08/%E5%81%A5%E8%BA%AB%E7%9A%84%E5%B0%8F%E7%AA%81%E7%A0%B4/</link>
+            <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="经过五一的休整，终于，卧推达到了80kg5个的成绩，体重82kg,而距离我系统地进行健身（10月4日）已是214天。加油，继续！！！" scheme="http://example.com/tags/%E7%BB%8F%E8%BF%87%E4%BA%94%E4%B8%80%E7%9A%84%E4%BC%91%E6%95%B4%EF%BC%8C%E7%BB%88%E4%BA%8E%EF%BC%8C%E5%8D%A7%E6%8E%A8%E8%BE%BE%E5%88%B0%E4%BA%8680kg5%E4%B8%AA%E7%9A%84%E6%88%90%E7%BB%A9%EF%BC%8C%E4%BD%93%E9%87%8D82kg-%E8%80%8C%E8%B7%9D%E7%A6%BB%E6%88%91%E7%B3%BB%E7%BB%9F%E5%9C%B0%E8%BF%9B%E8%A1%8C%E5%81%A5%E8%BA%AB%EF%BC%8810%E6%9C%884%E6%97%A5%EF%BC%89%E5%B7%B2%E6%98%AF214%E5%A4%A9%E3%80%82%E5%8A%A0%E6%B2%B9%EF%BC%8C%E7%BB%A7%E7%BB%AD%EF%BC%81%EF%BC%81%EF%BC%81/" />
+            <pubDate>Wed, 08 May 2024 18:52:40 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/05/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
             <title>第一篇博客</title>
             <link>http://example.com/2024/05/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-            <category term="博客的分类" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%86%E7%B1%BB/" />
+            <category term="杂谈" scheme="http://example.com/categories/%E6%9D%82%E8%B0%88/" />
             <category term="历时一天，终于创建好了这个网站。本网站的名字为solitude,意为优雅的独处。人终究是一个人走完一生，没有人会陪伴一生。 本网站主要记录一些笔记。" scheme="http://example.com/tags/%E5%8E%86%E6%97%B6%E4%B8%80%E5%A4%A9%EF%BC%8C%E7%BB%88%E4%BA%8E%E5%88%9B%E5%BB%BA%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E3%80%82%E6%9C%AC%E7%BD%91%E7%AB%99%E7%9A%84%E5%90%8D%E5%AD%97%E4%B8%BAsolitude-%E6%84%8F%E4%B8%BA%E4%BC%98%E9%9B%85%E7%9A%84%E7%8B%AC%E5%A4%84%E3%80%82%E4%BA%BA%E7%BB%88%E7%A9%B6%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B5%B0%E5%AE%8C%E4%B8%80%E7%94%9F%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E9%99%AA%E4%BC%B4%E4%B8%80%E7%94%9F%E3%80%82-%E6%9C%AC%E7%BD%91%E7%AB%99%E4%B8%BB%E8%A6%81%E8%AE%B0%E5%BD%95%E4%B8%80%E4%BA%9B%E7%AC%94%E8%AE%B0%E3%80%82/" />
             <pubDate>Wed, 08 May 2024 13:53:05 +0800</pubDate>
             <description><![CDATA[  ]]></description>

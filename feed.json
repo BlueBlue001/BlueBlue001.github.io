@@ -1,11 +1,22 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "bluecity",
-    "subtitle": "杂谈",
+    "subtitle": "平静的看待世界",
     "icon": "http://example.com/images/favicon.ico",
-    "description": "平静的看待世界",
+    "description": "明天是明天，现在是现在",
     "home_page_url": "http://example.com",
     "items": [
+        {
+            "id": "http://example.com/2024/05/08/%E5%81%A5%E8%BA%AB%E7%9A%84%E5%B0%8F%E7%AA%81%E7%A0%B4/",
+            "url": "http://example.com/2024/05/08/%E5%81%A5%E8%BA%AB%E7%9A%84%E5%B0%8F%E7%AA%81%E7%A0%B4/",
+            "title": "健身的小突破",
+            "date_published": "2024-05-08T10:52:40.000Z",
+            "content_html": "",
+            "tags": [
+                "生活",
+                "经过五一的休整，终于，卧推达到了80kg5个的成绩，体重82kg,而距离我系统地进行健身（10月4日）已是214天。加油，继续！！！"
+            ]
+        },
         {
             "id": "http://example.com/2024/05/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/",
             "url": "http://example.com/2024/05/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/",
@@ -13,7 +24,7 @@
             "date_published": "2024-05-08T05:53:05.000Z",
             "content_html": "",
             "tags": [
-                "博客的分类",
+                "杂谈",
                 "历时一天，终于创建好了这个网站。本网站的名字为solitude,意为优雅的独处。人终究是一个人走完一生，没有人会陪伴一生。 本网站主要记录一些笔记。"
             ]
         }
