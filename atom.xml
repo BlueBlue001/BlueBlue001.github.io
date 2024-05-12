@@ -8,8 +8,17 @@
     <author>
       <name>CHD</name>
     </author>
-    <updated>2024-05-08T10:52:40.000Z</updated>
+    <updated>2024-05-12T06:02:31.000Z</updated>
     <category term="clam" />
+    <entry>
+        <id>http://example.com/2024/05/12/20240512/</id>
+        <title>20240512</title>
+        <link rel="alternate" href="http://example.com/2024/05/12/20240512/"/>
+        <content type="html">&lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;今天是2024年5月12日，距离期末考试还有一个月左右。昨天参加了第二届盘古石杯的比赛，成绩不怎么理想，连参与奖都没有拿下。回头看这一个学期，感觉自己很忙，总是呆在图书馆里，但是到头来，发现自己啥都没有留下。经常花时间搞的取证也仅仅是一个新手水平。6月15号还要参加英语四级考试，英语就像横在我面前的一座大山，也不知道能不能通过。英语英语学不会，取证取证搞不来，健身又不行......&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;今天又是呆在了图书馆，但又不知道干了啥，时间长又怎样，效率低不是还一样。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;生活难道都是这样子吗，忙忙碌碌一辈子，却不知道自己留下了些什么。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;不说了，太阳出来了。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+</content>
+        <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/" />
+        <updated>2024-05-12T06:02:31.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/05/08/%E5%81%A5%E8%BA%AB%E7%9A%84%E5%B0%8F%E7%AA%81%E7%A0%B4/</id>
         <title>健身的小突破</title>
