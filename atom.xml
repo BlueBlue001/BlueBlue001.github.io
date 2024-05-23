@@ -30,7 +30,7 @@
         <link rel="alternate" href="http://example.com/2024/05/21/CTFtips/"/>
         <content type="html">&lt;h3 id=&#34;杂项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#杂项&#34;&gt;#&lt;/a&gt; 杂项&lt;/h3&gt;
 &lt;p&gt;1.010Editor 是真的强大，没思路可以先看下。&lt;/p&gt;
-&lt;p&gt;2. 如果压缩包打不开，可以在 linux 中用 file &amp;quot;文件&amp;quot;，查看文件的原后缀，然后直接改。&lt;/p&gt;
+&lt;p&gt;2. 如果压缩包打不开，可以用 010 打开，也可以在 linux 中用 file &amp;quot;文件&amp;quot;，查看文件的原后缀，然后直接改。&lt;/p&gt;
 &lt;p&gt;3. 一把梭还原图片原本大小，可以在图片打不开时尝试。&lt;/p&gt;
 &lt;p&gt;4. 图片有时会有隐水注。&lt;/p&gt;
 </content>
