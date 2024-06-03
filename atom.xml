@@ -49,7 +49,8 @@
 &lt;p&gt;​    （1）A 为 00 00，B 为 00 00，无加密。&lt;/p&gt;
 &lt;p&gt;​    （2）A 为 00 00，B 为 09 00，伪加密，把 09 改为 00。&lt;/p&gt;
 &lt;p&gt;​    （3）A 为 00 90，B 为 00 90，真加密。&lt;/p&gt;
-&lt;p&gt;6.png 文件的开头默认 89 50 4e 47 0d 0a 1a 0a&lt;/p&gt;
+&lt;p&gt;6.png 文件的开头默认 89 50 4e 47 0d 0a 1a 0a。&lt;/p&gt;
+&lt;p&gt;7. 摩斯密码是由 “.”“-”“ ” 组成的。&lt;/p&gt;
 </content>
         <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/" />
         <updated>2024-05-21T11:17:20.000Z</updated>
