@@ -40,7 +40,7 @@
         <id>http://example.com/2024/05/21/CTFtips/</id>
         <title>CTFtips</title>
         <link rel="alternate" href="http://example.com/2024/05/21/CTFtips/"/>
-        <content type="html">&lt;h3 id=&#34;杂项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#杂项&#34;&gt;#&lt;/a&gt; 杂项&lt;/h3&gt;
+        <content type="html">&lt;h1 id=&#34;杂项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#杂项&#34;&gt;#&lt;/a&gt; 杂项&lt;/h1&gt;
 &lt;p&gt;1.010Editor 是真的强大，没思路可以先看下。&lt;/p&gt;
 &lt;p&gt;2. 如果压缩包打不开，可以用 010 打开，也可以在 linux 中用 file &amp;quot;文件&amp;quot;，查看文件的原后缀，然后直接改。&lt;/p&gt;
 &lt;p&gt;3. 一把梭还原图片原本大小，可以在图片打不开时尝试。&lt;/p&gt;
@@ -51,6 +51,18 @@
 &lt;p&gt;​    （3）A 为 00 90，B 为 00 90，真加密。&lt;/p&gt;
 &lt;p&gt;6.png 文件的开头默认 89 50 4e 47 0d 0a 1a 0a。&lt;/p&gt;
 &lt;p&gt;7. 摩斯密码是由 “.”“-”“ ” 组成的。&lt;/p&gt;
+&lt;h1 id=&#34;web&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#web&#34;&gt;#&lt;/a&gt; WEB&lt;/h1&gt;
+&lt;p&gt;1. &lt;code&gt;intval&lt;/code&gt;  函数，用于将给定的变量、表达式或字符串转换为整数类型。如果转换的对象是一个浮点数，它会去掉小数部分；如果对象是布尔值或非数字的字符串，它会按照一定规则（比如将真值转换为 1，假值转换为 0）进行转换；对于无法直接转换的字符串，它还可以根据可选的基数（进制）参数来进行解析。&lt;/p&gt;
+&lt;p&gt;intval () 函数的绕过总结&lt;/p&gt;
+&lt;p&gt;1）当某个数字被过滤时，可以使用它的 2 进制 / 16 进制来绕过；比如过滤 10，就用 0b1010（八进制）或 0xA（十六进制）。&lt;/p&gt;
+&lt;p&gt;2）对于弱比较（a==b），可以给 a、b 两个参数传入空数组，使弱比较为 true。&lt;/p&gt;
+&lt;p&gt;3）当某个数字被过滤时，可以给它增加小数位来绕过；比如过滤 3，就用 3.1。&lt;/p&gt;
+&lt;p&gt;4）当某个数字被过滤时，可以给它拼接字符串来绕过；比如过滤 3，就用 3ab。（GET 请求的参数会自动拼接单引号）&lt;/p&gt;
+&lt;p&gt;5）当某个数字被过滤时，可以两次取反来绕过；比如过滤 10，就用～～10。&lt;/p&gt;
+&lt;p&gt;6）当某个数字被过滤时，可以使用算数运算符绕过；比如过滤 10，就用 5+5 或 2*5&lt;/p&gt;
+&lt;p&gt;7）当某个数字被过滤时，可以使用 “或” 绕过；比如过滤 10，就用 2 (正确的数) or 10 或 2 || 1000&lt;/p&gt;
+&lt;p&gt;2.url 编码，如 %2B 代表 +；%20 代表空格；&lt;/p&gt;
+&lt;p&gt;3. &lt;code&gt;?flag=rm -rf /*&lt;/code&gt;  意在递归且强制删除文件系统根目录下的所有文件和目录，可以导致系统中的所有数据丢失。&lt;/p&gt;
 </content>
         <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/" />
         <updated>2024-05-21T11:17:20.000Z</updated>
